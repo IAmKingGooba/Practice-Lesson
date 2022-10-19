@@ -1,0 +1,30 @@
+Body {
+  background-color: Blue;
+}
+
+h1{
+  color: white;
+  font-size: 40px
+  font-family: Ariel, Helvetica, Sans-serif;
+}
+
+img{
+  width: 100%
+}
+
+p, Li{
+  color: white;
+  font-family: Ariel, Helvetica, Sans-serif;
+}
+
+.Header{
+  Background-color: Black;
+  Padding-left: 10px;
+  Border: 5px solid white;
+}
+
+.footer{
+  Background-color: white;
+  padding-left: 5px;
+  Border: 2px solid Black;
+}
